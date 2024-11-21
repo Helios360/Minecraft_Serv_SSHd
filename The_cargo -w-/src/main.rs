@@ -1,2 +1,5 @@
 use ssh::*;
 
+fc main(){
+
+}
