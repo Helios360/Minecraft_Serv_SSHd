@@ -1,0 +1,1 @@
+This project aims to create a software that can open an instance of a minecraft java server from anywhere 
