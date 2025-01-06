@@ -1,5 +1,0 @@
-use ssh::*;
-
-fc main(){
-
-}

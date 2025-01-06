@@ -1,7 +1,0 @@
-[package]
-name = "SSHd_serv_app"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-ssh="0.1.4"
